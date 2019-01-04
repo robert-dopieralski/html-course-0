@@ -1,0 +1,10 @@
+.navigation a 
+{ 
+    color: red 
+}
+h1 
+{
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase; 
+}
